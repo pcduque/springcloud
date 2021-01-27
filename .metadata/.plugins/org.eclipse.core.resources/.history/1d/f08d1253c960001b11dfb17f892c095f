@@ -1,0 +1,2 @@
+INSERT INTO 'usuarios' (username, password, enabled, nombre, email) VALUES ('admin', '123', 1, 'pablo', 'pcduquer@uqvirtual.edu.co');
+INSERT INTO 'usuarios' (username, password, enabled, nombre, email) VALUES ('gary', '123', 1, 'gary', 'gary@uqvirtual.edu.co');

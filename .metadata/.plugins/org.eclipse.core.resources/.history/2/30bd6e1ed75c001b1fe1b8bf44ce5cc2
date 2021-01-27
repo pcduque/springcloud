@@ -1,0 +1,5 @@
+package com.formacionbdi.springboot.app.product.models.dao;
+
+public interface ProductoDao {
+
+}
